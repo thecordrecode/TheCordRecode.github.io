@@ -18,7 +18,7 @@ tags: [C++,알고리즘]
 
 for문을 이용하여 구현한 피보나치
 
-```C++
+```cpp
 int Fibonacci= 0, prevFibonacci = 0, pprevFibonacci = 1;
 
 	for (int i = 0; i < 30; i++) {
@@ -30,7 +30,7 @@ int Fibonacci= 0, prevFibonacci = 0, pprevFibonacci = 1;
 
 재귀 함수를 이용하여 구현한 피보나치
 
-```C++
+```cpp
 void Fibonacci(int prevFibonacci,int pprevFibonacci) {
 	if (prevFibonacci > 10000) return;
 	cout << prevFibonacci + pprevFibonacci << endl;
