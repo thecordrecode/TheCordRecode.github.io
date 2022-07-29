@@ -47,7 +47,7 @@ not_found:
 
 notification:
   update_found: 코딩기록소 블로그에 오신걸 환영합니다.
-  update: 코딩기록소 블로그에 오신걸 환영합니다.
+  update: 확인
 
 # ----- Posts related labels -----
 
