@@ -1,7 +1,7 @@
 ---
 title: 자바-변수
 author: kimjeahyun
-date: 2022-07-30 00:00:00 -0500
+date: 2022-07-30 20:00:00 UTC/GMT +9
 categories: [자바,기초]
 tags: [자바,기초,변수]
 ---
