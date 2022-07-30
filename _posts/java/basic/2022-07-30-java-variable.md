@@ -2,8 +2,8 @@
 title: 자바-변수
 author: kimjeahyun
 date: 2022-07-30 20:00:00 +0900
-categories: [자바,기초]
-tags: [자바,기초,변수]
+categories: [개발,자바,자바기초]
+tags: [자바,자바기초,변수]
 ---
 
 # 변수 (Variable)

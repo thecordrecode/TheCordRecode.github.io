@@ -1,8 +1,8 @@
 ---
 title: C++ 피보나치 수열구하기
 author: kimjeahyun
-date: 2022-07-28 17:00:00 -0500
-categories: [C++언어,알고리즘]
+date: 2022-07-29 20:00:00 +0900
+categories: [개발,C++언어,알고리즘]
 tags: [C++언어,알고리즘]
 ---
 
