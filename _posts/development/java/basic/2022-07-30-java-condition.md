@@ -24,6 +24,7 @@ tags: [개발,자바,자바기초]
 <br>
 
 # 문법
+
 ```java
 if(조건식){
     //조건식이 참 일 떄 수행될 문장들을 적는다.
@@ -41,6 +42,7 @@ else{
 # if문을 이용한 로그인 기능 구현
 
 >login.java
+
 ```java
 package conditionWhile;
 
@@ -76,6 +78,7 @@ public class login {
 ```
 
 >main.java
+
 ```java
 package basic;
 
@@ -114,6 +117,7 @@ switch(조건식){
 switch 문을 이용하여 4칙연산 계산기 만들기.
 
 >calc.class
+
 ```java
 package conditionWhile;
 
@@ -139,6 +143,7 @@ public class calc {
 ```
 
 >main.class
+
 ```java
 package basic;
 
