@@ -188,3 +188,64 @@ public class main {
  커피가 나왔습니다.!
  이름:밀크커피 갯수:2 가격:800
 ```
+
+<br>
+
+# 오버라이딩
+
+부모의 함수를 재정의 하는 것이다.
+따라서 이름이 같아야 하며, 매개변수가 같아야하고 반환타입이 같아야한다.
+
+다음과 같이 정말 간단한 클래스가 있다고 치자.
+
+```java
+package conditionWhile;
+
+public class moving {
+	
+	public void run() {
+		System.out.println("5의 속도로 뛰고 있습니다.");
+	}
+
+	public void walk() {
+		System.out.println("2의 속도로 걷고 있습니다.");
+	}
+}
+```
+
+
+```java
+package conditionWhile;
+
+public class Person extends moving{
+
+	public void walk() {
+		System.out.println("3의 속도로 걷고있습니다.");
+	}
+	
+	//인스턴스 변수
+	String name = "김재현"; //명시적 초기화.
+	int age;
+	
+	static String good = "good"; // 클래스 초기화
+	
+	{
+		this.age=28; //인스턴스 초기화.
+	}
+	
+	Person(String name,int age){
+		//생성자 초기화
+		this.name = name; 
+		this.age = age;
+	}
+	
+	void introduce() {
+		System.out.println("My name is "+name);
+	}
+	
+}
+```
+
+사람 클래스에 moving 상속을 받아 walk 라는 함수를 오버라이딩 하였다.
+동물 사람 다양한 동물들의 걷고 뛰는 행동은 동일 하지만 속도는 다를 것이다. 이렇듯이 내가 필요한 함수를 상속받은 위치에서 재정의 하는것을 오버라이딩 이라고 한다.
+
