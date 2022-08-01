@@ -122,3 +122,42 @@ public class main {
 참조변수의 타입은 인스턴스의 타입과 같아야 한다.
 
 <br>
+
+
+# 생성자(Constructor)
+
+생성자는 인스턴스가 진행되면서 처음으로 호출되는 초기화 함수이다.
+보통의 경우 인스턴스 초기화의 주로 사용된다. 물론 명시적 초기화를 진행하는 것이 제일 좋다.
+
+생성자는 생성될 경우 두가지를 주의 해야한다.
+-	생성자의 이름은 클래스의 이름과 같아야 합니다.
+-	생성자는 리턴 값이 없습니다.(초기화 목적)
+
+```java
+package conditionWhile;
+
+public class Person {
+
+	//인스턴스 변수
+	String name = "김재현"; //명시적 초기화.
+	int age;
+	
+	static String good = "good"; // 클래스 초기화
+	
+	{
+		this.age=28; //인스턴스 초기화.
+	}
+	
+	Person(String name,int age){
+		//생성자 초기화
+		this.name = name; 
+		this.age = age;
+	}
+	
+	void introduce() {
+		System.out.println("My name is "+name);
+	}
+	
+}
+
+```
