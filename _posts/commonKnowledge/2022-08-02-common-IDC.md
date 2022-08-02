@@ -1,5 +1,5 @@
 ---
-title: 객체지향이란?
+title: IDC란?
 author: kimjeahyun
 date: 2022-08-02 12:00:00 +0900
 categories: [공통지식]
