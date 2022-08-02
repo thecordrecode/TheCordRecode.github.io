@@ -1,11 +1,7 @@
 ---
 title: 자바-함수 및 클래스
 author: kimjeahyun
-<<<<<<<< HEAD:_posts/development/java/basic/x2022-08-02-java-class.md
-date: 2022-08-02 22:00:00 +0900
-========
 date: 2022-08-01 17:00:00 +0900
->>>>>>>> 3d36183661fc83562132e3419ef7744675c8e4a3:_posts/development/java/basic/2022-08-01-java-class.md
 categories: [개발,자바,자바기초]
 tags: [개발,자바,자바기초]
 ---
