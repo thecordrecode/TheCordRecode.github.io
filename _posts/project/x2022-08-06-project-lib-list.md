@@ -1,7 +1,7 @@
 ---
 title: C언어로 만든 List 단방향
 author: kimjeahyun
-date: 2022-08-06 01:00:00 +0900
+date: 2022-08-06 20:00:00 +0900
 categories: [프로젝트,라이브러리]
 tags: [프로젝트,라이브러리]
 ---
