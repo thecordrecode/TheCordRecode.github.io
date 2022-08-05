@@ -1,5 +1,5 @@
 ---
-title: 자바-다형성
+title: 자바-예외처리
 author: kimjeahyun
 date: 2022-08-03 23:00:00 +0900
 categories: [개발,자바,자바기초]
@@ -73,7 +73,7 @@ class MyException extends Exception{
         this(msg,100);
     }
     public int getErrCode(){
-        return ERR_CODE:
+        return ERR_CODE;
     }
 }
 ```
