@@ -1,7 +1,7 @@
 ---
 title: MariaDB Install linux 에 설치하기 
 author: kimjeahyun
-date: 2022-08-11 20:00:00 +0900
+date: 2022-08-12 17:00:00 +0900
 categories: [설치,db]
 tags: [설치,db]
 ---
@@ -62,3 +62,13 @@ EOF
 systemctl daemon-reload
 systenctl start mariadb.service
 ~~~
+
+
+# 마리아 디비 유저 생성
+
+~~~
+CREATE USER '유저명'@localhost IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO '유저명'@localhost IDENTIFIED BY 'password';
+~~~
+
+그후 접속하면 끝
