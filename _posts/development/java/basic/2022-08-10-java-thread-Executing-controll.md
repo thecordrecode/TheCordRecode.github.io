@@ -1,5 +1,5 @@
 ---
-title: 자바-쓰레드 제3장 실행제어 및 동기화
+title: 자바-쓰레드 3장 실행제어 및 동기화
 author: kimjeahyun
 date: 2022-08-10 19:00:00 +0900
 categories: [개발,자바,자바기초]

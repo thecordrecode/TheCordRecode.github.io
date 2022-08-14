@@ -111,7 +111,7 @@ typedef struct iist {
 }List;
 
 void initList(List* plist);
-void add(List* plist, int data);
+void add(List* plist, int data);s
 void show(List* plist, int order);
 #endif // ! __LIST_H__
 
