@@ -1,5 +1,5 @@
 ---
-title: C언어로 만든 stack
+title: C언어로 만든 stack 배열
 author: kimjeahyun
 date: 2022-08-13 20:00:00 +0900
 categories: [프로젝트,라이브러리]
