@@ -41,7 +41,15 @@ tags: [알고리즘]
 
 정렬 완성!
 
+그림으로 표현하면 다음과 같다.
+
+
+![버블정렬](../../img/cpp/Algorithm/BubbleSort1.png)
+
+![버블정렬2](../../img/cpp/Algorithm/BubbleSort2.png)
+
 자 다음 개념을 이용하여 버블정렬을 구현해보도록 하겠다.
+
 
 ```cpp
 #include <iostream>
