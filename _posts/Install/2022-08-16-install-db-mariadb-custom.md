@@ -39,7 +39,6 @@ port=3306
 
 # This will be passed to all MariaDB clients
 [client]
-password=wise1012
 
 # The MariaDB server
 [mysqld]
