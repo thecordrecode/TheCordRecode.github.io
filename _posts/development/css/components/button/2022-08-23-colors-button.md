@@ -3,7 +3,7 @@ title: CSS 색깔로 버튼 만들어보기
 author: kimjeahyun
 date: 2022-08-23 01:00:00 +0900
 categories: [개발,CSS,Components]
-tags: [개발,CSS언어,Components]
+tags: [개발,CSS,Components]
 ---
 
 <style>

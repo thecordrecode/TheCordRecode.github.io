@@ -3,7 +3,7 @@ title: CSS 색깔 RGB로 지정하기
 author: kimjeahyun
 date: 2022-08-23 01:00:00 +0900
 categories: [개발,CSS,CSS기초]
-tags: [개발,CSS언어,CSS기초]
+tags: [개발,CSS,CSS기초]
 ---
 
 # CSS 색깔 RGB를 이용하여 지정하기
