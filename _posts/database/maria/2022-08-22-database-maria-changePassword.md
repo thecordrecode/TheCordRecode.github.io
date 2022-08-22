@@ -10,26 +10,26 @@ tags: [DATABASE,MARIA]
 
 >Mariadb 계정 접속 
 
-```Shell
+```sh
 su - mariadb
 ```
 
 >마리아디비 접속 및  스키마 연결
 
-```Shell
+```sh
 mysql
 use mysql
 ```
 
 >계정 정보 조회
 
-```SQL
+```mysql
 SELECT HOST, USER,PASSWORD FROM WHERE WHERE = 'ID';
 ```
 
 >패스워드 변경 및 FLUSH
 
-```SQL
+```mysql
 SET PASSWORD FOR 'ID'@'HOST' = PASSWORD('NEW_PASSWORD');
 FLUSH PRIVILEGES;
 ```
