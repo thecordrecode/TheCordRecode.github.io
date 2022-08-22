@@ -23,13 +23,13 @@ use mysql
 
 >계정 정보 조회
 
-```mysql
+```sql
 SELECT HOST, USER,PASSWORD FROM WHERE WHERE = 'ID';
 ```
 
 >패스워드 변경 및 FLUSH
 
-```mysql
+```sql
 SET PASSWORD FOR 'ID'@'HOST' = PASSWORD('NEW_PASSWORD');
 FLUSH PRIVILEGES;
 ```

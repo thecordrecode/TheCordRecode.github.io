@@ -15,7 +15,7 @@ mysql -u root -p -h localhost
 
 >데이터베이스 생성
 
-```mysql
+```sql
 CREATE DATABASE bookstore;
 
 USE bookstore;
@@ -23,7 +23,7 @@ USE bookstore;
 
 >테이블 생성
 
-```mysql
+```sql
 CREATE TABLE books (
 isbn CHAR(20) PRIMARY KEY, 
 title VARCHAR(50),
@@ -35,7 +35,7 @@ description TEXT );
 
 >데이터 넣기
 
-```mysql
+```sql
 INSERT INTO books
 (title, author_id, isbn, year_pub)
 VALUES('The Castle', '1', '0805211063', '1998');
@@ -43,14 +43,14 @@ VALUES('The Castle', '1', '0805211063', '1998');
 
 >데이터 조회
 
-```mysql
+```sql
 SELECT title 
 FROM books;
 ```
 
 >데이터베이스 및 유저 생성
 
-```mysql
+```sql
 -- database 생성(mysqladmin이용)
 C:\>mysqladmin -uroot -p create scott
 
@@ -90,7 +90,7 @@ mysql>source C:\scott.sql
 
 >로우 제한
 
-```mysql
+```sql
 -- 앞에서 3개의 데이터를 조회함
 mysql>SELECT empno, ename FROM emp LIMIT 3;
 
