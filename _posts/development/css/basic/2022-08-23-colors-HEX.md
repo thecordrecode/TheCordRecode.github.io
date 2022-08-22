@@ -128,10 +128,13 @@ HEX는 총 6자리 알파벳과 숫자를 조합해서 색을 지정한다.
 
 >색깔을 이용하여 버튼 생성해보기
 
-<div class="btn-color">
+</br>
+
+<div class="btn-color-v1">
     button
 </div>
 
+</br>
 
 >소스
 
