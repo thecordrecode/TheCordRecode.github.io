@@ -7,6 +7,14 @@ tags: [개발,CSS,Components]
 ---
 
 <style>
+    *{
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+    }
     .btn-color-v1{
         width:100px;
         height:50px;
@@ -91,6 +99,14 @@ tags: [개발,CSS,Components]
     <title>Document</title>
 </head>
 <style>
+    *{
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+    }
     .btn-color-v1{
         width:100px;
         height:50px;
