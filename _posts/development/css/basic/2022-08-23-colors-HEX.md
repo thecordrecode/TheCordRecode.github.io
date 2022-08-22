@@ -6,6 +6,23 @@ categories: [개발,CSS,CSS기초]
 tags: [개발,CSS언어,CSS기초]
 ---
 
+<style>
+    .btn-color-v1{
+        width:100px;
+        height:50px;
+        text-align: center;
+        line-height: 50px;
+        background-color: rgba(165, 62, 11,1);
+        font-size: 18px;
+        font-weight: 900;
+        cursor:pointer;
+    }
+    .btn-color-v1:hover{
+        background-color: rgba(165, 62, 11,0.6);
+    }
+</style>
+
+
 # CSS 색깔 HEX를 이용하여 지정하기
 
 Css는 이미 지정된 색깔 이름 또는 RGB,HEX,HSL,HSLA,RGBA를 사용하여 값을 지정 할 수 있다.
