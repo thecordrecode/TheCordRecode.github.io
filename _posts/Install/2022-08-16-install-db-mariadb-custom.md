@@ -80,6 +80,18 @@ export PATH=$PATH:/home/mysql/mysql/bin/
 mysqladmin shutdown
 ~~~
 
+마리아 디비 루트 로그인 안될떄 다음으로 기동 가능
+
+~~~
+mysqld_safe --user=root --skip-grant-tables &
+~~~
+
+비밀번호 변경하기
+
+~~~
+UPDATE user SET Password = PASSWORD('root') WHERE user = 'root';
+~~~
+
 서비스 등록하기
 
 ~~~
