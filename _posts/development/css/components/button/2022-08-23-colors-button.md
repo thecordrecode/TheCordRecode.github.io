@@ -51,7 +51,7 @@ tags: [개발,CSS,Components]
 
 >색깔을 이용하여 버튼 생성해보기
 
-</br>
+<br>
 
 <div class="display">
     <div class="btn-color-v1 bg-color-tomato">
@@ -76,7 +76,8 @@ tags: [개발,CSS,Components]
         button
     </div>
 </div>
-</br>
+
+<br>
 
 >소스
 
