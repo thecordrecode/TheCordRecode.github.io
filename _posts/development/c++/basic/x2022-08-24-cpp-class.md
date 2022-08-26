@@ -1,0 +1,144 @@
+---
+title: C++-클래스,상속
+author: kimjeahyun
+date: 2022-08-24 20:00:00 +0900
+categories: [개발,Cpp,Cpp기초]
+tags: [개발,Cpp,Cpp기초]
+---
+
+# Class
+
+지금까지 공부를 해오면서 알게 모르게 클래스를 살짝 살짝 보여드렸다.
+클래스란 객체를 정의해놓은 것이며 객체의 설계도 또는 틀이라고 불리운다.
+클래스는 객체지향 언어에서 중요한 부분에 속한다. 
+
+자동차라는 객체를 만들때 만약에 자동차 설계도가 존재하지 않는다면 어떨까?
+생성도중 균일하지 않은 오류가 발생 할것이고 1개를 완성하였다 치더라도 다시 만들때 설계도가 존재하지 않으니 또 다시 시련을 반복할 것이다.
+
+마찬가지로 프래그래밍도 클래스라는 설계도가 존재하지 않는다면.
+코드의 재사용성이 떨어질 것이며, 코드의 관리가 용이하지않고,균일하지 않은 오류가 발생하여 신뢰성이 떨어지게 될것이다.
+
+> 클래스 정리
+
+- 클래스란 객체를 정의해 놓은 것이다.
+- 클래스는 객체를 생성하는데(인스턴스) 사용된다.
+
+> 클래스의 구성요소는?
+
+-   속성 필드,상태,특성
+-   기능 메서드,함수,행위
+
+>클래스 Unit 과 Maria 선언하여 만들어보기.
+
+```cpp
+#pragma once
+
+#include<iostream>
+#include<string>
+
+
+//클래스 선언
+class Unit {
+private:
+	int HP;
+	int atackN;
+	std::string name;
+//상속받은 아이만 사용가능
+protected:
+
+public:
+	Unit() {
+		HP = 50;
+		atackN = 1;
+		name = "";
+	}
+	void setHP(int HP);
+	int getHP();
+	void setatack(int atackN);
+	int getatack();
+	void setName(std::string name);
+	std::string getName();
+
+	void move();
+	void atack();
+
+};
+```
+
+```cpp
+#include "Unit.h"
+
+void Unit::setHP(int HP) {
+	this->HP = HP;
+}
+int Unit::getHP() {
+	return this->HP;
+}
+void Unit::setatack(int atackN) {
+	this->atackN = atackN;
+}
+int Unit::getatack() {
+	return this->atackN;
+}
+void Unit::setName(std::string name) {
+	this->name = name;
+}
+std::string Unit::getName() {
+	return this->name;
+}
+void Unit::move() {
+	std::cout << "움직이고 있다." << std::endl;
+}
+void Unit::atack() {
+	std::cout << "기본공격하고 있다." << std::endl;
+}
+```
+
+```cpp
+#pragma once
+//상속받기
+class Marin : public Unit {
+public:
+	void move() {
+		std::cout << "마린이 움직이고 있다." << std::endl;
+	}
+
+};
+```
+
+```cpp
+#include<iostream>
+#include"Unit.h"
+#include"marin.h"
+
+using namespace std;
+
+int main(void)
+{
+
+	Unit ut;
+
+	ut.move();
+	ut.atack();
+
+	Marin ma;
+	ma.setHP(100);
+	ma.move();
+	ma.atack();
+
+	cout << ut.getHP() << endl;
+	cout << ma.getHP() << endl;
+	
+	return 0;
+}
+```
+
+
+~~~
+움직이고 있다.
+기본공격하고 있다.
+마린이 움직이고 있다.
+기본공격하고 있다.
+50
+100
+~~~
