@@ -1,7 +1,7 @@
 ---
 title: C++ - 구조체 및 포인터
 author: kimjeahyun
-date: 2022-08-26 20:00:00 +0900
+date: 2022-09-01 15:00:00 +0900
 categories: [개발,Cpp,Cpp기초]
 tags: [개발,Cpp,Cpp기초]
 ---
