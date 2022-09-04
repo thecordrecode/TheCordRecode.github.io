@@ -1,7 +1,7 @@
 ---
 title: C++-template
 author: kimjeahyun
-date: 2022-09-03 11:30:00 +0900
+date: 2022-09-05 00:00:00 +0900
 categories: [개발,Cpp,Cpp기초]
 tags: [개발,Cpp,Cpp기초]
 ---
