@@ -1,17 +1,18 @@
 ---
-title: C++-2중 for문
+title: C++-winform 로그인화면 구현
 author: kimjeahyun
 date: 2022-09-03 11:30:00 +0900
 categories: [개발,Cpp,Cpp기초]
 tags: [개발,Cpp,Cpp기초]
 ---
 
-# C++ 2중 for문
+# Winforms - login windows realizing
 
-C++에서 주어진 배열 중 가장 많이 등장하는 숫자를 구하는 함수를 생성
+This is login windows composes one button and two textBox 
+if you success login in then appearing MessageBox of success
+if you failure login in then appearing MessageBox of failure
 
-
-2중 for 문 버전 
+Let's go cording of winforms
 
 ```cpp
 int majority1(const vector<int>& A) {
@@ -81,6 +82,7 @@ int main() {
 	end = clock();
 	result = (double)(end - start);
 	cout << result << endl;
+	
 
 	return 0;
 }
