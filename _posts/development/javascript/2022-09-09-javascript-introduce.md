@@ -76,7 +76,7 @@ tags: [개발,자바스크립트]
     var divObject2 = document.getElementById("TEST2_20220909");
 
     divObject2.addEventListener("click",()=>{
-        divObject.style.fontColor = 'red';
+        divObject.style.color = 'red';
     });
 
     
