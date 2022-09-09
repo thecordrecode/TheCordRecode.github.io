@@ -73,9 +73,9 @@ tags: [개발,자바스크립트]
 
 <script>
 
-    var divObject = document.getElementById("TEST2_20220909");
+    var divObject2 = document.getElementById("TEST2_20220909");
 
-    divObject.addEventListener("click",()=>{
+    divObject2.addEventListener("click",()=>{
         divObject.style.fontColor = 'red';
     });
 
@@ -103,3 +103,5 @@ tags: [개발,자바스크립트]
 </script>
 
 ```
+
+이외에도 자바스크립트를 통하여 다양한 기능을 구현할수 있다.
