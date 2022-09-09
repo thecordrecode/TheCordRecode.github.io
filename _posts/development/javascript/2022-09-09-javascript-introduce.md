@@ -76,7 +76,7 @@ tags: [개발,자바스크립트]
     var divObject2 = document.getElementById("TEST2_20220909");
 
     divObject2.addEventListener("click",()=>{
-        divObject.style.color = 'red';
+        divObject2.style.color = 'red';
     });
 
     
@@ -96,7 +96,7 @@ tags: [개발,자바스크립트]
     var divObject2 = document.getElementById("TEST2_20220909");
 
     divObject2.addEventListener("click",()=>{
-        divObject.style.color = 'red';
+        divObject2.style.color = 'red';
     });
 
     
