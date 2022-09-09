@@ -93,10 +93,10 @@ tags: [개발,자바스크립트]
 
 <script>
 
-    var divObject = document.getElementById("TEST2_20220909");
+    var divObject2 = document.getElementById("TEST2_20220909");
 
-    divObject.addEventListener("click",()=>{
-        divObject.style.fontColor = 'red';
+    divObject2.addEventListener("click",()=>{
+        divObject.style.color = 'red';
     });
 
     
