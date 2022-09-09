@@ -25,7 +25,27 @@ tags: [개발,자바스크립트]
 
 # 자바스크립트는 HTML 내용을 변경 할 수 있다.
 
+소스코드
 
+```javascript
+<div id="TEST_20220909">
+    누르면 값이 변경됩니다.
+</div>
+
+
+<script>
+
+    var divObject = document.getElementById("TEST_20220909");
+
+    divObject.addEventListener("click",()=>{
+        divObject.innerHTML = "Changed";
+    });
+
+    
+</script>
+```
+
+> 구현
 
 <div id="TEST_20220909">
     누르면 값이 변경됩니다.
@@ -42,3 +62,44 @@ tags: [개발,자바스크립트]
 
     
 </script>
+
+# 자바스크립트는 스타일 및 속성값을 변경 할 수 있다.
+
+> 구현
+
+<div id="TEST2_20220909">
+    누르면 색깔이 변경됩니다.
+</div>
+
+<script>
+
+    var divObject = document.getElementById("TEST2_20220909");
+
+    divObject.addEventListener("click",()=>{
+        divObject.style.fontColor = 'red';
+    });
+
+    
+</script>
+
+소스코드
+
+
+```javascript
+
+<div id="TEST2_20220909">
+    누르면 색깔이 변경됩니다.
+</div>
+
+<script>
+
+    var divObject = document.getElementById("TEST2_20220909");
+
+    divObject.addEventListener("click",()=>{
+        divObject.style.fontColor = 'red';
+    });
+
+    
+</script>
+
+```
