@@ -2,8 +2,8 @@
 title: C언어로 만든 List 양방향
 author: kimjeahyun
 date: 2022-08-06 20:00:00 +0900
-categories: [프로젝트,라이브러리]
-tags: [프로젝트,라이브러리]
+categories: [자료구조]
+tags: [자료구조]
 ---
 
 # C언어를 통하여 자료구조 List 만들기

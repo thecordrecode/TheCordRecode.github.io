@@ -2,8 +2,8 @@
 title: C언어로 만든 stack 배열
 author: kimjeahyun
 date: 2022-08-13 20:00:00 +0900
-categories: [프로젝트,라이브러리]
-tags: [프로젝트,라이브러리]
+categories: [자료구조]
+tags: [자료구조]
 ---
 
 # 스택이란?
