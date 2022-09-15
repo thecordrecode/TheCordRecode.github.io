@@ -1,7 +1,7 @@
 ---
 title: 객체지향이란?
 author: kimjeahyun
-date: 2022-07-28 17:00:00 +0900
+date: 2022-07-28 20:00:00 +0900
 categories: [공통지식,OOP]
 tags: [공통지식,OOP]
 ---

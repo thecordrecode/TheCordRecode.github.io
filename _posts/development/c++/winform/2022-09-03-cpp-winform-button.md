@@ -12,85 +12,39 @@ This is login windows composes one button and two textBox
 if you success login in then appearing MessageBox of success
 if you failure login in then appearing MessageBox of failure
 
-Let's go cording of winforms
+Let's go coding of winforms
+
+explain source code
+
+you need two variables, one for id and the other for password
+
+and 
+
+you need two variables, one for temporary storing of textBox of id Text and the other for temporary storing of textBox of password Text
+
+like under this 
+
+and then you compare the variable of id with the variable of compareId
 
 ```cpp
-int majority1(const vector<int>& A) {
-	int N = A.size();
-	int majority = -1, majorityCount = 0;
+		System::String^ id = "admin";
+		System::String^ password = "1q2w3e4r";
+		System::String^ compareID = "";
+		System::String^ comparePassword = "";
 
-	for (int i = 0; i < N; ++i) {
-		int V = A[i], count = 0;
+		compareID = textBox1->Text;
+		comparePassword = textBox2->Text;
 
-		for (int j = 0; j < N; ++j) {
-			if (A[j] == V) {
-				++count;
+
+		if (id == compareID) {
+			if (password == comparePassword) {
+				MessageBox::Show("로그인에 성공 하였습니다.");
+			}
+			else {
+				MessageBox::Show("비밀번호가 틀렸습니다.");
 			}
 		}
-
-		if (count > majorityCount) {
-			majorityCount = count;
-			majority = V;
+		else {
+			MessageBox::Show("아이디가 틀렸습니다.");
 		}
-	}
-	return majority;
-}
 ```
-
-1중 for 문 버전
-
-```cpp
-int majority2(const vector<int>& A) {
-	int N = A.size();
-	int max = 0;
-	int majority = 0;
-
-	vector<int> vect(N, 0);
-
-	for (int i = 0; i < N; i++) {
-		++vect[A[i]];
-		if (max < vect[A[i]]) {
-			max = vect[A[i]];
-			majority = A[i];
-		}
-	}
-	return majority;
-}
-```
-
-테스트
-
-```cpp
-int main() {
-
-	vector<int> vc;
-
-	for (int i = 0; i < 70000; i++) {
-		vc.push_back(rand() % 100);
-	}
-	clock_t start, end;
-	double result;
-
-	start = clock();
-	cout << majority2(vc) << endl;
-	end = clock();
-	result = (double)(end - start);
-	cout << result << endl;
-
-	start = clock();
-	cout << majority1(vc) << endl;
-	end = clock();
-	result = (double)(end - start);
-	cout << result << endl;
-	
-
-	return 0;
-}
-```
-
-테스트 결과 
-
-버전2 1중 for 문 0.001초 소요
-
-버전1 2중 for 문 12.360 초 소요
-
