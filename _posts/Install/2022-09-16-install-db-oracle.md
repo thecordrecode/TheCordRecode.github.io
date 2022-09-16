@@ -1,7 +1,7 @@
 ---
 title: Oracle Install linux 에 설치하기 
 author: kimjeahyun
-date: 2022-09-16 17:00:00 +0900
+date: 2022-09-16 00:00:00 +0900
 categories: [설치,db]
 tags: [설치,db]
 ---
@@ -466,5 +466,21 @@ export ORACLE_SID=orcl
 export PATH=/u01/app/oracle/product/19.0.0/dbhome_1/bin:$PATH
 ~~~
 
+# create Listener
 
-https://docs.oracle.com/cd/B19306_01/server.102/b14231/start.htm
+~~~
+netca -silent -responseFile $ORACLE_HOME/assistants/netca/netca.rsp
+~~~
+
+# check Listener
+
+~~~
+lsnrctl status
+~~~
+
+# create database
+
+~~~
+dbca -silent -createDatabase -templateName General_Purpose.dbc -gdbName orcl.rajasekhar.com -sid orcl -sysPassword 1q2w3e4r -systemPassword 1q2w3e4r -emConfiguration NONE -datafileDestination /u01/oradata -storageType FS -characterSet AL32UTF8
+~~~
+
