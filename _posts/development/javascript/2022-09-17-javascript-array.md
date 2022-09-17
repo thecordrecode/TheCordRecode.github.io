@@ -1,7 +1,7 @@
 ---
 title: 자바스크립트 - array
 author: kimjeahyun
-date: 2022-09-16 00:00:00 +0900
+date: 2022-09-17 00:00:00 +0900
 categories: [개발,자바스크립트]
 tags: [개발,자바스크립트]
 ---

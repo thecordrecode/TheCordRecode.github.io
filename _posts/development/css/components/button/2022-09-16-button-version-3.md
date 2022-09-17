@@ -1,5 +1,5 @@
 ---
-title: CSS Button version1
+title: CSS Button version2
 author: kimjeahyun
 date: 2022-09-16 00:00:00 +0900
 categories: [개발,CSS,Components]
