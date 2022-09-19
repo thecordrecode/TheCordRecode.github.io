@@ -2,8 +2,8 @@
 title: React 생성하기
 author: kimjeahyun
 date: 2022-09-19 00:00:00 +0900
-categories: [개발,자바스크립트]
-tags: [개발,자바스크립트]
+categories: [개발,리액트]
+tags: [개발,리액트]
 ---
 
 # React 프로젝트 시작하기
