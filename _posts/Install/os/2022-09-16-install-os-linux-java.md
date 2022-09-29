@@ -2,8 +2,8 @@
 title: Linux java 설치하기
 author: kimjeahyun
 date: 2022-09-16 00:00:00 +0900
-categories: [설치,os]
-tags: [설치,os]
+categories: [Installation guide,Os]
+tags: [Installation guide,Os]
 ---
 
 # java 설치하기

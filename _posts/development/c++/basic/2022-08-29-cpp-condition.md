@@ -2,8 +2,8 @@
 title: C++-조건문
 author: kimjeahyun
 date: 2022-08-29 20:00:00 +0900
-categories: [개발,Cpp,Cpp기초]
-tags: [개발,Cpp,Cpp기초]
+categories: [Languages for development,Cpp]
+tags: [Languages for development,Cpp]
 ---
 
 

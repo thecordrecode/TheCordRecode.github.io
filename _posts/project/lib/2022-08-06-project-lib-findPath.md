@@ -2,8 +2,8 @@
 title: 자바로 만든 파일경로 찾기 
 author: kimjeahyun
 date: 2022-08-06 14:00:00 +0900
-categories: [프로젝트,라이브러리]
-tags: [프로젝트,라이브러리]
+categories: [Projects,Lib]
+tags: [Projects,Lib]
 ---
 
 # 자바로 파일명을 입력하여 경로 찾기 

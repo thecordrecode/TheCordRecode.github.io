@@ -2,8 +2,8 @@
 title: 객체지향이란?
 author: kimjeahyun
 date: 2022-07-28 20:00:00 +0900
-categories: [공통지식,OOP]
-tags: [공통지식,OOP]
+categories: [common of knowledge,OOP]
+tags: [common of knowledge,OOP]
 ---
 
 # 객체 지향 프로그래밍(Object-Oriented Programming, OOP)

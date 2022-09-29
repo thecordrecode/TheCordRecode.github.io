@@ -2,8 +2,8 @@
 title: HTML5 단락
 author: kimjeahyun
 date: 2022-08-23 20:00:00 +0900
-categories: [개발,HTML5,HTML5기초]
-tags: [개발,HTML5,HTML5기초]
+categories: [Languages for development,HTML5]
+tags: [Languages for development,HTML5]
 ---
 
 # HTML 단락

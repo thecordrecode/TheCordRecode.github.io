@@ -2,8 +2,8 @@
 title: Mssql server install
 author: kimjeahyun
 date: 2022-09-22 00:00:00 +0900
-categories: [설치,db]
-tags: [설치,db]
+categories: [Installation guide,Database]
+tags: [Installation guide,Database]
 ---
 
 # How to install MSSQL Server in windows 10 

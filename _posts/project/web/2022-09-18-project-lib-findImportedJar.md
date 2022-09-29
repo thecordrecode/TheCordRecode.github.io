@@ -2,8 +2,8 @@
 title: 홈쇼핑 페이지 만들기 레이아웃 잡기
 author: kimjeahyun
 date: 2022-09-18 00:00:00 +0900
-categories: [프로젝트,WEB]
-tags: [프로젝트,WEB]
+categories: [Projects,WEB]
+tags: [Projects,WEB]
 ---
 
 CSS 소스

@@ -2,8 +2,8 @@
 title: CSS 색깔 HEX를 지정하기
 author: kimjeahyun
 date: 2022-08-23 01:00:00 +0900
-categories: [개발,CSS,CSS기초]
-tags: [개발,CSS,CSS기초]
+categories: [Languages for development,CSS]
+tags: [Languages for development,CSS]
 ---
 
 

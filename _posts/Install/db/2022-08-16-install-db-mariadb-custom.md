@@ -2,8 +2,8 @@
 title: MariaDB Install linux 커스텀하여 설치하기 
 author: kimjeahyun
 date: 2022-08-16 17:00:00 +0900
-categories: [설치,db]
-tags: [설치,db]
+categories: [Installation guide,Database]
+tags: [Installation guide,Database]
 ---
 
 # Mariadb 바이너리 설치하기

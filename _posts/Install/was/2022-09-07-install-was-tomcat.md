@@ -2,8 +2,8 @@
 title: Tomcat install for windows
 author: kimjeahyun
 date: 2022-09-07 00:00:00 +0900
-categories: [설치,was]
-tags: [설치,was]
+categories: [Installation guide,WAS]
+tags: [Installation guide,WAS]
 ---
 
 # 톰켓 설치

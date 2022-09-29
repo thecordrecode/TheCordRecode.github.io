@@ -2,8 +2,8 @@
 title: 자바-열거형
 author: kimjeahyun
 date: 2022-08-21 01:00:00 +0900
-categories: [개발,자바,자바기초]
-tags: [개발,자바,자바기초]
+categories: [Languages for development,Java]
+tags: [Languages for development,Java]
 ---
 
 # 열거형 enum

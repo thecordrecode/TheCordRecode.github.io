@@ -2,8 +2,8 @@
 title: IDC란?
 author: kimjeahyun
 date: 2022-08-02 12:00:00 +0900
-categories: [공통지식]
-tags: [공통지식]
+categories: [common of knowledge,OOP]
+tags: [common of knowledge,OOP]
 ---
 
 # IDC (internet data center) 란?

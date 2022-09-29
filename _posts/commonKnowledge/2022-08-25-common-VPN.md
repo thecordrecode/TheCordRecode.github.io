@@ -2,8 +2,8 @@
 title: Virtual Private Network (VPN)
 author: kimjeahyun
 date: 2022-08-25 12:00:00 +0900
-categories: [공통지식]
-tags: [공통지식]
+categories: [common of knowledge]
+tags: [common of knowledge]
 ---
 
 # VPN (Virtaul Private Network)

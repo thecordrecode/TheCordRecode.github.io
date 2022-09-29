@@ -2,8 +2,8 @@
 title: 자바로 Imported 된 자바 클래스 찾기
 author: kimjeahyun
 date: 2022-09-08 12:00:00 +0900
-categories: [프로젝트,라이브러리]
-tags: [프로젝트,라이브러리]
+categories: [Projects,Lib]
+tags: [Projects,Lib]
 ---
 
 # 자바로 imported된 자바 클래스 찾기

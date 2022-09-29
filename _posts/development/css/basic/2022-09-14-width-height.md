@@ -2,8 +2,8 @@
 title: CSS-width-height
 author: kimjeahyun
 date: 2022-09-14 00:00:00 +0900
-categories: [개발,CSS,CSS기초]
-tags: [개발,CSS,CSS기초]
+categories: [Languages for development,CSS]
+tags: [Languages for development,CSS]
 ---
 
 <style type="text/css">

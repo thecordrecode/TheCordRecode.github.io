@@ -2,8 +2,8 @@
 title: WebLogic 14.1.1.0 Install linux 에 설치하기 
 author: kimjeahyun
 date: 2022-08-11 20:00:00 +0900
-categories: [설치,was]
-tags: [설치,was]
+categories: [Installation guide,WAS]
+tags: [Installation guide,WAS]
 ---
 
 # 전제조건 

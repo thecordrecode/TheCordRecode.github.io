@@ -2,8 +2,8 @@
 title: 자바-지네릭스
 author: kimjeahyun
 date: 2022-08-20 13:00:00 +0900
-categories: [개발,자바,자바기초]
-tags: [개발,자바,자바기초]
+categories: [Languages for development,Java]
+tags: [Languages for development,Java]
 ---
 
 # 지네릭스

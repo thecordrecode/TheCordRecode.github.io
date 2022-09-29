@@ -2,8 +2,8 @@
 title: C++-winform 로그인화면 구현
 author: kimjeahyun
 date: 2022-09-03 11:30:00 +0900
-categories: [개발,Cpp,Cpp기초]
-tags: [개발,Cpp,Cpp기초]
+categories: [Languages for development,Cpp]
+tags: [Languages for development,Cpp]
 ---
 
 # Winforms - login windows realizing

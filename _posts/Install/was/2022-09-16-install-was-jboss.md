@@ -2,8 +2,8 @@
 title: jboss install on the linux
 author: kimjeahyun
 date: 2022-09-16 00:00:00 +0900
-categories: [설치,was]
-tags: [설치,was]
+categories: [Installation guide,WAS]
+tags: [Installation guide,WAS]
 ---
 
 # jboss 설치
