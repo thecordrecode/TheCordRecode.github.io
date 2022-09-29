@@ -2,8 +2,8 @@
 title: 자바스크립트 - 문법
 author: kimjeahyun
 date: 2022-09-09 15:00:00 +0900
-categories: [개발,자바스크립트]
-tags: [개발,자바스크립트]
+categories: [Languages for development,JavaScript]
+tags: [Languages for development,JavaScript]
 ---
 
 이장은 자바스크립트에 문법은 짧은 시간내에 상기 시킬정도의 정리만 하였다.

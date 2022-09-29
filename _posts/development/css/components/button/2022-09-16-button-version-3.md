@@ -2,9 +2,10 @@
 title: CSS Button version2
 author: kimjeahyun
 date: 2022-09-16 00:00:00 +0900
-categories: [개발,CSS,Components]
-tags: [개발,CSS,Components]
+categories: [Languages for development,CSS]
+tags: [Languages for development,CSS]
 ---
+
 <style type="text/css">
 	.btn-container{
 		background-color: #aa24fc;
