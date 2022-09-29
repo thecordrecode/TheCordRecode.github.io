@@ -2,8 +2,8 @@
 title: C++ 선택정렬
 author: kimjeahyun
 date: 2022-08-16 20:00:00 +0900
-categories: [알고리즘]
-tags: [알고리즘]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 

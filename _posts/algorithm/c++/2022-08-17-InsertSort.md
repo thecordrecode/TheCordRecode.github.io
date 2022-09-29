@@ -2,8 +2,8 @@
 title: C++ 삽입정렬
 author: kimjeahyun
 date: 2022-08-17 20:00:00 +0900
-categories: [알고리즘]
-tags: [알고리즘]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 

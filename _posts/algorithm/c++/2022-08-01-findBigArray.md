@@ -2,8 +2,8 @@
 title: C++ 배열에서 가장 많이 등장하는 수는?
 author: kimjeahyun
 date: 2022-08-01 12:00:00 +0900
-categories: [알고리즘]
-tags: [알고리즘]
+categories: [Algorithm]
+tags: [Algorithm]
 ---
 
 
