@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> 안녕하세요 코딩 기록소 입니다.
+> 개인 공부 및 저장 공간입니다.
+
 
