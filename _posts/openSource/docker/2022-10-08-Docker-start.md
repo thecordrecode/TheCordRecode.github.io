@@ -56,3 +56,39 @@ Docker has worked to make these capabilities approachable and easy to use. To su
 
 when running a container , it uses an isolated filesystem This custom firesystem is provided by a container image. Since the image containers the container's filesystem, it must contain everything needed to run an application - all dependencies, configurations, scripts , binaries, etc, The image also contains other configuration for the container, such as enviroment variables, a default command to run and other metadata.
 
+# Start an app container 
+
+Now that we have an image, let's run the application. To do so, we will use the docker run command (remember that from earlier?)
+
+1. Start your container using the dockor run command and spcify the name of the image we just created:
+
+```bash
+docker run -dp 3000:3000 getting-started
+```
+
+! Remember the -d and -p flags? we are running the new container in detached mode and creating a mapping between the host's port 3000 to the container's port 3000 without the port mapping we wouldn't be able to access the application.
+
+2. After a few second, open your web brower to http://localhost:3000/ You shuld wee our app.
+
+3. Go ahead and add an item or two and see that it works as you expect. You can mark items as complete and remove items. Your frontend is successfully storing items in the backend. Pretty quick and easy, huh?
+
+At this point, you should have a running todo list manager with a few items, all built by you. Now, let’s make a few changes and learn about managing our containers.
+
+If you take a quick look at the Docker Dashboard, you should see your two containers running now (this tutorial and your freshly launched app container).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
