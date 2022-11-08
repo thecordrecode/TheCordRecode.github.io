@@ -2,8 +2,8 @@
 title: MariaDB Drop table
 author: kimjeahyun
 date: 2022-09-28 16:00:00 +0900
-categories: [DATABASE,MARIA]
-tags: [DATABASE,MARIA]
+categories: [DB,MARIA]
+tags: [DB,MARIA]
 ---
 
 # How to remove the table by executing sql syntax

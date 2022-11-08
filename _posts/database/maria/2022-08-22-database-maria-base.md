@@ -2,8 +2,8 @@
 title: MariaDB 기초모음 
 author: kimjeahyun
 date: 2022-08-22 12:00:00 +0900
-categories: [DATABASE,MARIA]
-tags: [DATABASE,MARIA]
+categories: [DB,MARIA]
+tags: [DB,MARIA]
 ---
 
 
