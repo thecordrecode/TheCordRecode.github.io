@@ -8,168 +8,92 @@ tags: [Song]
 
 # 가사 
 
-Track suits and red wine
+I hope that the fire we both made Still burns a litle in you
+> 우리가 서로 사랑에 빠졌던 그 감정이 아직 있었으면 좋겠다.
 
-> 편안한 옷차림과 그리고 레드와인.
+I wrote to you Everyday, until my letters find their way
+> 나는 너에게 항상 편지를 썼어, 내 편지들이 잘 도착 했을까?
 
-Movies for two
+Our memories on my screen Two lovers in this mystic dream
+> 기억속 우리들의 모습들은 신비로운 꿈속 사랑스러운 모습인걸
 
-> 우리둘만을 위한 영화들과.
+Baby come back to me, come back to me
+> 자기야 돌아와줘 돌아와줘
 
-we'll take of our phones
+Too much time on my phone Baby do you still sleep alone?
+> 핸드폰을 많이 보게된다 너는 아직도 혼자 자고 있을까?
 
-> 우리들은 우리들의 핸드폰을 끌거야.
+come back to me , come back to me
+> 돌아와줘 돌아와줘...
 
-And we'll turn off our shoes 
+Remember me
+> 기억해줘 나를
 
-> 그리고 우리는 사랑을 나눌거야.
+Fresh out of black and white Movie , Movie
+> 흑백영화속 장면에서 나온듯 생생하게
 
-we'll play Nintendo Though I always lose
+On every screen what would you realize
+> 모든 장면속 너는 무엇이 느껴지니?
 
-> 우리는 닌텐도를 플레이 할꺼야 비록 내가 언제나 지겠지만.
+what you meant to me, was it a mystery
+> 너가 무슨의미 인지 알겠어. 이것또한 미스터리 였나요?
 
-Cause You'll watch the TV
+I heard that you moved somewhere far away
+> 너가 멀리 이사갔다는 소식 들었어.
 
-> 너는 닌텐도에 빠지겠지만.
+is your number the same as before?
+> 너의 핸드폰 번호는 이전과 같니>
 
-While I'm watcing you 
+Can't ignore the time
+> 이 시간들을 무시할수 없어.
 
-> 게임 하는동안 나는 너를 볼거니까.
+May have changed your ways
+> 너의 많은 길을 바꿔놓았을 꺼야.
 
-There's not many people I'd honestly say
+Does my record still hang on your wall?
+> 우리과 함께 했던 사진들이 아직도 너의 벽에 있니?
 
-> 솔직히 말해서 이런 사람 많지 않아.
+such a sentimental way to groove
+> 센치한 음악들같은
 
-I don't mind losing to But there's nothing like doing nothing with you
+I hope it still touches you
+> 나는 너가 여전히 내곁에 있었으면 좋겠어.
 
-> 나 게임 지고싶지 않아.. 그런데 너와 함께하는 시간만큼 소중한 시간은 없어.
+bacy come back to me, come back to me
+> 돌아와줄래? 돌아와줘..
 
-Dumb conversations 
+it kills me to see you leave
+> 너가 떠나는 모습을 보는것이 이것은 나에게 큰상처야 
 
-> 실 없는 소리들과.
+so I came home and made this beat
+> 그래서 나는 집에 돌아와서 이노래를 만들었어.
 
-we lose track of time
+Baby come back to me , come back to me
+> 돌아와주라. 돌아 와줘..
 
-> 우리는 시간 가는 줄 모르겠지..
+Remember me
+> 기억해?
 
-have I told you lately
+Flesh out of black and white Movie movie
+> 흑백영화에서 나온듯이
 
-> 내가 최근에 말했던거 기억나?
+on every screen
+> 모든 장면들에서
 
-I'm grateful you are mine?
+What would you realize
+> 무엇을 느끼고 있니?
 
-> 너가 내 곁에 있어서 참 행복하다고.
+Whay you meant to me, was it a mystery
+> 이제야 알았어 무슨의미인지 이것또한 미스터리인가요?
 
-We'll watch The notebook
+Remember me , let's set the scene
+> 기억해줘 다시 시작하자.
 
-> 우리는 영화 노트북을 볼거야.
+you and me, what could've been 
+> 너와 나 무슨일이든 일어날수 있었어.
 
-For the seventeenth time 
+still swimming in a lover's dream
+> 여전히 사랑속 꿈에서 수영하고 있어.
 
-> 17번이나!!
-
-I'll say, it's stupid
-
-> 나는 말하겠지 이건 바보 같은 짓이라고.
-
-Then You'll catch me crying
-
-> 그때 너는 내가 우는것을 눈치 채겠지
-
-we're not making out
-
-> 우리는 사랑을 나누지 않을거야.
-
-Oh a boat in the rain
-
-> 비가 내리는 보트 위에서
-
-or in a house I've painted blue
-
-> 또는 파랑색을 칠했던 집 안에서
-
-But there's nothing
-
-> 그런데 없어.
-
-like doing nothing
-
-> 아무것도 안하는 것만큼
-
-with you
-
-> 너와 같이.
-
-so shut all the windows
-
-> 그래서 창문들을 모두 닫고서.
-
-and lock all the doors
-
-> 그리고 방들을 다 잠궜어.
-
-we're not looking for no one
-
-> 우리는 아무도 찾지 않아도 되
-
-Don't need nothing more
-
-> 더이상 필요한것은 없으닌까.
-
-you'll bite my lib and 
-
-> 너는 나의 키스를 해주겠지 그리고
-
-I'll want you more 
-
-> 나는 그 이상을 더 원할거고
-
-Until we end up
-In a heap on the floor
-
-> 바닥에 맨몸으로 누울 떄까지.
-
-You could be dancing on tabletops
-
-> 너는 탁자위에서 춤을 출거야.
-
-wearing high-heels
-
-> 하이휠을 신고.
-
-Drinking until the world
-Sprins like a wheel
-
-> 세상이 바퀴처럼 돌때까지 수을 마시자.
-
-But tonight your apartment
-
-> 하지만 너희 집이 오늘 밤은
-
-Had so much appeal
-
-> 더 좋을 거야.
-
-Who needs starts?
-
-> 누가 별이 필요해?
-
-we've got a root
-
-> 우리는 지붕위에 있는데.
-
-and there's nothing
-
->그리고 진짜 없다.
-
-Like doing nothing with you
-
-> 너랑 아무것도 안하는것 만큼 좋은데.
-
-No, there's nothing
-
-> 진짜 너무 좋다.
-
-Like doing nothing with you.
-
-> 미치도록.!!!
+still playing on the movie screens
+> 여전히 연주하고 있어 영화속 장면들에서
