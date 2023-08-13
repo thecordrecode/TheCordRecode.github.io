@@ -4,4 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, my name is Kim jae Hyean. I'm from South Korea, and I have been working at WISEITECH for 5 years. My role is in technical support at WISEITECH. I have various experiences in infrastructure, developement, database, ETL, and more. What I find interesting is the development side, expecially the backend. I enjoy studying algorithms, acquiring new skills, and improving my English. This space serves as a record of my skills.
+안녕하세요 코딩기록소입니다. 
+
+저는 인하공전 전기정보과에 졸업하였고 전기업계는 저와 맞지 않아 현재는 IT업계에서 일하고 있습니다. 처음 IT를 접하게 된것은 2017년도 쯤이며 국비지원을 통해 6개월 간 수강후 2018년 이후부터 일하고 있습니다.
+
+이 BLOG는 저의 지식 창고 및 저를 소개하는 공간입니다.
+
+게시물 관련하여 궁금증이 있으신 분은 다음 이메일로 답장주시길 바랍니다.
+thecordrecode@gmail.com
+
+감사합니다.
